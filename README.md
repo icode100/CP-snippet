@@ -1,6 +1,14 @@
 # CP-snippet
 This is my vscode snippet for competitve programming. This consist of support for both c++ as well as python languages. Here are the keywords and their applications in vscode.
 
+### Usage
+To use the snippet we can have two methods. 
+* Method 1
+   * Go the the code and copy it. 
+   * Then go to the `Manage Button` > `snippets` > `New Global Snippets file` > rename the file to any name of your choice > open the file and paste the copied code
+* Method 2
+   * Download the snippet file > Go to the file explorer > paste the following in the address bar:  `C:\Users\<user-username>\AppData\Roaming\Code\User\snippets` > add the snippet file the folder.
+
 ### for python
 * `cp`: This pastes the basic competitve programming snippet that includes all the declaration along with fast i/o.
 * `sieve`: This is the snippet for sieve of Eratosthenes algorithm
